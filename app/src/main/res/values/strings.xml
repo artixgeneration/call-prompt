@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CALL PROMPT</string>
+    <string name="overlay_channel_name">Call Note Overlay</string>
+    <string name="overlay_channel_desc">Shows notes during phone calls</string>
+    <string name="overlay_notification">CALL PROMPT overlay active</string>
+</resources>

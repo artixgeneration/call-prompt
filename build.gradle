@@ -1,0 +1,18 @@
+buildscript {
+    ext {
+        compose_bom = '2024.04.01'
+        kotlin_version = '1.9.22'
+        agp_version = '8.2.2'
+        room_version = '2.6.1'
+        lifecycle_version = '2.7.0'
+    }
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:${agp_version}"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlin_version}"
+    }
+}
