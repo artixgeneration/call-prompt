@@ -1,0 +1,8 @@
+{
+  "name": "Call Prompt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3fbc771e"
+}
